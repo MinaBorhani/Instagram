@@ -52,3 +52,27 @@ div{
 .bio_text{
     font-size: 10px;
 }
+
+
+
+.but{
+    display: inline;
+    margin: 10px;   
+    /* font-size: 10px; */
+}
+.btn{
+    background-color: rgb(56, 55, 55);
+    color: white;
+    border-radius: 15%;
+    border: none;
+    padding: 5px 20px;
+    font-size: 8px;
+}
+.btn_icon{
+    background-color: rgb(56, 55, 55);
+    color: white;
+    border-radius: 15%;
+    border: none;
+    padding: 5px 10px;
+    font-size: 8px;
+}
