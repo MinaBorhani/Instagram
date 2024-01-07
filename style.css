@@ -9,6 +9,8 @@ body{
     padding-top: 0px;
 }
 
+
+
 img{
     width: 45px;
     height: 45px;
@@ -17,7 +19,6 @@ img{
 #pro{
     display: flex;
 }
-
 div{
     display: block;
     margin-bottom: 0;
@@ -34,10 +35,20 @@ div{
 .num_pro{
     padding-left: 19px;
 }
-
 .pro_text{
     display: flex;
     padding-left: 8px;
     padding-top: 0px;
     margin-top: 0px;
+}
+
+
+
+.bio{
+    display: inline;
+    padding: 0;
+    margin: 0;
+}
+.bio_text{
+    font-size: 10px;
 }
