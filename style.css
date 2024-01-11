@@ -7,14 +7,44 @@ body{
 #header_insta{
     margin-top: 0px;
     padding-top: 0px;
+    display: flex;
+}
+#usName{
+    font-size: 20px;
+    margin-left: 10px;
+}
+#icon1{
+    /* color: wheat; */
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+#iconeArrow{
+    width: 10px;
+    height: 10px;
+    margin-top: 28px;
+    margin-left: 5px;
+}
+#iconAddNeww{
+    width: 23x;
+    height: 23px;
+    margin-top: 18px;
+    margin-left: 190px;
+}
+#iconMenu{
+    width: 20px;
+    height: 20px;
+    margin-top: 20px;
+    margin-left: 10px;
 }
 
 
-
 img{
-    width: 45px;
-    height: 45px;
+    width: 70px;
+    height: 70px;
     border-radius: 50%;
+    margin-top: 10px;
 }
 #pro{
     display: flex;
@@ -23,11 +53,11 @@ div{
     display: block;
     margin-bottom: 0;
     padding-bottom: 0;
-    
 }
 .num{
-    padding-left: 10px;
-    margin-top: 2px;
+    padding-left: 50px;
+    margin-top: 10px;
+    font-size: 13px;
     /* padding-top: 2px; */
     /* margin-bottom: px; */
     /* padding-bottom: 10px; */
@@ -50,14 +80,15 @@ div{
     margin: 0;
 }
 .bio_text{
-    font-size: 10px;
+    font-size: 15px;
 }
 
 
 
 .but{
-    display: inline;
-    margin: 10px;   
+    display: flex;
+    margin: 0px 5px; 
+    margin-left: 20px;  
     /* font-size: 10px; */
 }
 .btn{
@@ -65,14 +96,22 @@ div{
     color: white;
     border-radius: 15%;
     border: none;
-    padding: 5px 20px;
-    font-size: 8px;
+    padding: 10px 50px;
+    font-size: 10px;
+    margin: 0 5px;
 }
 .btn_icon{
     background-color: rgb(56, 55, 55);
-    color: white;
+    /* color: white; */
     border-radius: 15%;
     border: none;
-    padding: 5px 10px;
-    font-size: 8px;
+    padding: 0px 5px;
+    /* font-size: px; */
+    margin: 1px 5px;
+}
+#iconUser{
+    width: 20px;
+    height: 20px;
+    /* margin-top: 20px; */
+    /* margin-left: 10px; */
 }
